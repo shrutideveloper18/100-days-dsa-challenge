@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [0217-contains-duplicate](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0217-contains-duplicate) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
