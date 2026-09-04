@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
