@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0283-move-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0509-fibonacci-number) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
