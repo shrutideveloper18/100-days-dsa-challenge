@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0283-move-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
