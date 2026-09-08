@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0242-valid-anagram) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
