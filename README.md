@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
