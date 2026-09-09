@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
