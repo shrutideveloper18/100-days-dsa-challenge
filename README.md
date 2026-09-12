@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
