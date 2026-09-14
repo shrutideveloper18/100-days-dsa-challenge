@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0283-move-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
