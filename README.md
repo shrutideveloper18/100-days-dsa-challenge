@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0238-product-of-array-except-self](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0238-product-of-array-except-self) |
+| [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
+| [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0283-move-zeroes) |
+| [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
