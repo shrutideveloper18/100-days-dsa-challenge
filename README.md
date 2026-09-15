@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
