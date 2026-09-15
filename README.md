@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,8 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
