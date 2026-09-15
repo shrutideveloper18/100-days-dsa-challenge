@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0283-move-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
+| [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
