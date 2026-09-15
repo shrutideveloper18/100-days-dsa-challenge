@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0238-product-of-array-except-self](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0238-product-of-array-except-self) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0713-subarray-product-less-than-k) |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -153,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
