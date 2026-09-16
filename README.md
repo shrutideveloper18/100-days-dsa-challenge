@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0509-fibonacci-number) |
+| [0203-remove-linked-list-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
