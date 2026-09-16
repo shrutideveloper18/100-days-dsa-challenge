@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0238-product-of-array-except-self) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
+| [0053-maximum-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0509-fibonacci-number) |
+| [0053-maximum-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0053-maximum-subarray) |
 ## Memoization
 |  |
 | ------- |
