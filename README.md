@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0053-maximum-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0509-fibonacci-number) |
 | [0053-maximum-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0152-maximum-product-subarray) |
 ## Memoization
 |  |
 | ------- |
