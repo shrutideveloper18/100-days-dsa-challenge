@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
