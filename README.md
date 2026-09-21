@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0509-fibonacci-number) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0202-happy-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0202-happy-number) |
+| [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
