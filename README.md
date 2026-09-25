@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0202-happy-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
