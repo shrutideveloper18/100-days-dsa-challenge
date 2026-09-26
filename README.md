@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3525-find-x-value-of-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0202-happy-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
