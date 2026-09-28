@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
