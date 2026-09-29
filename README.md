@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -250,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
