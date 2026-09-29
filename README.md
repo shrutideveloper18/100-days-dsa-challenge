@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0724-find-pivot-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [0724-find-pivot-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
