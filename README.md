@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
 | ------- |
