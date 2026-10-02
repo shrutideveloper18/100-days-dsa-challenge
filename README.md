@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+| [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
