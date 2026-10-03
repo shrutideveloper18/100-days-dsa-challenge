@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3524-find-x-value-of-array-i) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0032-longest-valid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0032-longest-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -267,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
