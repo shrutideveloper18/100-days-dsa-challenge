@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
+| [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+| [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0678-valid-parenthesis-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
