@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 | [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
+| [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0202-happy-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
+| [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
