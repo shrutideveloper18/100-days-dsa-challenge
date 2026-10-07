@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [0301-remove-invalid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
 | [0022-generate-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1096-brace-expansion-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
