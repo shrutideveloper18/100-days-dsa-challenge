@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0301-remove-invalid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
