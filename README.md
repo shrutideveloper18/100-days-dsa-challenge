@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -317,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
