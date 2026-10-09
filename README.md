@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 | [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
+| [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
+| [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
