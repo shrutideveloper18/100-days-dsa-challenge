@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -320,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
