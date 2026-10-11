@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
