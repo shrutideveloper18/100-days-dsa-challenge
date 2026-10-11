@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
