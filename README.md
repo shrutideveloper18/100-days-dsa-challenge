@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0525-contiguous-array) |
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3525-find-x-value-of-array-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
