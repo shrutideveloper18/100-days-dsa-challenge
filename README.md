@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0056-merge-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
