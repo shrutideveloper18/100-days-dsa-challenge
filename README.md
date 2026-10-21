@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [0002-add-two-numbers](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0002-add-two-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
+| [0002-add-two-numbers](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0002-add-two-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
+| [0002-add-two-numbers](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0002-add-two-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
