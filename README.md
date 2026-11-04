@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
+| [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0225-implement-stack-using-queues](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 ## Segment Tree
 |  |
 | ------- |
