@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,11 +299,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
+| [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3498-reverse-degree-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
+| [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 ## Segment Tree
 |  |
 | ------- |
