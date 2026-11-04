@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
 | [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
