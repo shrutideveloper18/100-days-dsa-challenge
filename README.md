@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0225-implement-stack-using-queues](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
