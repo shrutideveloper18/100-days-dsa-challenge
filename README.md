@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0225-implement-stack-using-queues](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
