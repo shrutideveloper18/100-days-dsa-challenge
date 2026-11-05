@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0234-palindrome-linked-list) |
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
+| [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
+| [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
