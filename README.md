@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
 | [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0225-implement-stack-using-queues) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
