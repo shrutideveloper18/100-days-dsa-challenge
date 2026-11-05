@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [0002-add-two-numbers](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
 | [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
+| [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
