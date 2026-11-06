@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0066-plus-one) |
 | [1929-concatenation-of-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1929-concatenation-of-array) |
+| [1470-shuffle-the-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
