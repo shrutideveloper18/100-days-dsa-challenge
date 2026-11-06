@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0066-plus-one) |
+| [1929-concatenation-of-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 | [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
+| [1929-concatenation-of-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1929-concatenation-of-array) |
 ## Segment Tree
 |  |
 | ------- |
