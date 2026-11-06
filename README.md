@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1929-concatenation-of-array) |
 | [1470-shuffle-the-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1470-shuffle-the-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
