@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1470-shuffle-the-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2390-removing-stars-from-a-string) |
 | [1929-concatenation-of-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Segment Tree
 |  |
 | ------- |
