@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
