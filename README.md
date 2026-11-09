@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0986-interval-list-intersections) |
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 | [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
