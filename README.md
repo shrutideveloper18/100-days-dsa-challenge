@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0168-excel-sheet-column-title) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [0058-length-of-last-word](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0168-excel-sheet-column-title) |
 ## Divide and Conquer
 |  |
 | ------- |
