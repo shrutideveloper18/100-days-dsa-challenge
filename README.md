@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1191-k-concatenation-maximum-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [1089-duplicate-zeros](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0844-backspace-string-compare) |
 | [0125-valid-palindrome](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
