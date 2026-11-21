@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [1089-duplicate-zeros](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/1089-duplicate-zeros) |
 | [0704-binary-search](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/shrutideveloper18/100-days-dsa-challenge/tree/master/0035-search-insert-position) |
 ## Matrix
 |  |
 | ------- |
